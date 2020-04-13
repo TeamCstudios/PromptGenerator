@@ -1,0 +1,2 @@
+# PromptGenerator
+Fanfic prompt generator.
