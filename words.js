@@ -9,4 +9,4 @@ var ouatarray = ouatprompts.split(",");
 
 //Functions
 var lines = [ farraya, [" characters in a  "], farrayb, ["setting."],];
-var prompts = [ ouatprompts, ouatprompts];
+var prompts = [ ouatarray, [" testa "],];
