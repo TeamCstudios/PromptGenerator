@@ -1,5 +1,5 @@
 //Franchise Lists
-var franchisea = "Steven Universe,Adventure Time,Ninjago: Masters of Spinjitsu,Once Upon a Time,She-Ra (2018),Pokémon (Games),Pokémon (Anime),Undertale";
+var franchisea = "Steven Universe,Adventure Time,Ninjago: Masters of Spinjitsu,Once Upon a Time,She-Ra (2018),Pokémon (Games),Pokémon (Anime),Undertale,Death Note,Parks And Recreation,The Office,Star Wars (Original),Star Wars (Prequel),Star Wars (Sequel)";
 var franchiseb = "Once Upon A Time,Pokémon,Doctor Who,Undertale"";
 //Prompt Lists
 var ouatprompts = "Characters are cursed and sent to a mundane town to with a new identity and new memories.,One character is now the Dark One and must struggle against their own dark magic.,Characters are cursed and sent to a mundane town to with a new identity and new memories.,Characters are cursed and sent to a mundane town to with a new identity and new memories.";
